@@ -1,0 +1,28 @@
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.exe
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.deps.json
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.dll
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.dll
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\obj\Debug\net6.0\refint\ConsoleApp12.dll
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\Hossa\OneDrive\Pictures\ConsoleApp12\obj\Debug\net6.0\ref\ConsoleApp12.dll
+D:\College\CE\Projects\CPU ALGO c#\bin\Debug\net6.0\ConsoleApp12.exe
+D:\College\CE\Projects\CPU ALGO c#\bin\Debug\net6.0\ConsoleApp12.deps.json
+D:\College\CE\Projects\CPU ALGO c#\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+D:\College\CE\Projects\CPU ALGO c#\bin\Debug\net6.0\ConsoleApp12.dll
+D:\College\CE\Projects\CPU ALGO c#\bin\Debug\net6.0\ConsoleApp12.pdb
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\ConsoleApp12.dll
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\refint\ConsoleApp12.dll
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\ConsoleApp12.pdb
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\ref\ConsoleApp12.dll
