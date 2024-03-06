@@ -7,6 +7,7 @@ D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\CPU_ProcessScheduling.Genera
 D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\CPU_ProcessScheduling.AssemblyInfoInputs.cache
 D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\CPU_ProcessScheduling.AssemblyInfo.cs
 D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\CPU_ProcessScheduling.csproj.CoreCompileInputs.cache
+D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\CPU_ProcessScheduling.sourcelink.json
 D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\CPU_ProcessScheduling.dll
 D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\refint\CPU_ProcessScheduling.dll
 D:\College\CE\Projects\CPU ALGO c#\obj\Debug\net6.0\CPU_ProcessScheduling.pdb

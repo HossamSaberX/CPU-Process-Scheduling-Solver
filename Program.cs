@@ -6,11 +6,11 @@ namespace CPU_ProcessScheduling
     {
         public static int[] wt;
         public static int[] tat;
-        public static (double,double) avg_wt_tat(int[] at, int[] bt, int n)
+        public static (double, double) avg_wt_tat(int[] at, int[] bt, int n)
         {
             int time = 0, smallest;
             double wtsum = 0, tatsum = 0;
-             wt = new int[n];
+            wt = new int[n];
             tat = new int[n];
 
             for (int i = 0; i < n; i++)
@@ -38,60 +38,60 @@ namespace CPU_ProcessScheduling
                 tatsum += tat[i];
             }
 
-            return (wtsum/n, tatsum/n);
+            return (wtsum / n, tatsum / n);
         }
 
     }
 
 }
-    class FCFS
+class FCFS
+{
+    public static double sum = 0;
+    public static int[] wt;
+    public static int[] tat;
+
+    public static (double, double) avgWT_TAT(int[] at, int[] bt, int length)
     {
-        public static double sum = 0;
-        public static int[] wt;
-        public static int[] tat;
+        int[] start = new int[length];
+        wt = new int[length];
+        if (at[0] != 0) { start[0] = at[0]; }
+        else { start[0] = 0; }
 
-        public static (double, double) avgWT_TAT(int[] at, int[] bt, int length)
+        wt[0] = 0;
+        for (int i = 1; i < length; i++)
         {
-            int[] start = new int[length];
-            wt = new int[length];
-            if (at[0]!=0) {start[0] = at[0];}
-            else { start[0] = 0; }
-            
-            wt[0] = 0;
-            for (int i = 1; i < length; i++)
-            {
-                start[i] = start[i - 1] + bt[i - 1];
-                wt[i] = start[i] - at[i];
-            }
-            double sum = 0;
+            start[i] = start[i - 1] + bt[i - 1];
+            wt[i] = start[i] - at[i];
+        }
+        double sum = 0;
 
-            for (int i = 0; i < length; i++)
-            {
-                sum += wt[i];
-            }
-            tat = new int[length];
-            for (int i = 0; i < length; i++)
-             {
+        for (int i = 0; i < length; i++)
+        {
+            sum += wt[i];
+        }
+        tat = new int[length];
+        for (int i = 0; i < length; i++)
+        {
             tat[i] = wt[i] + bt[i];
-             }
-            double sumtat = 0;
-            for (int i = 0; i < length; i++)
-            {
-            sumtat += tat[i];
-            }
-
-            return (sum / length , sumtat/ length);
-            }
-
-    }
-    internal class Program
-    {
-
-        static void Main(string[] args)
+        }
+        double sumtat = 0;
+        for (int i = 0; i < length; i++)
         {
+            sumtat += tat[i];
+        }
+
+        return (sum / length, sumtat / length);
+    }
+
+}
+internal class Program
+{
+
+    static void Main(string[] args)
+    {
         while (true)
         {
-            Console.Write("Please, Enter the number of processes:");
+            Console.Write("Enter the number of processes:");
             int x = int.Parse(Console.ReadLine());
             int[] at = new int[x];
             int[] bt = new int[x];
@@ -147,6 +147,6 @@ namespace CPU_ProcessScheduling
             }
         }
     }
-      
-    }
+
+}
 
