@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CPU_ProcessScheduling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80e16101edeef8dd97f1bba7148c04b5c947ee29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad3406b052addf4e95063c9afbe3abd579d9cc8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CPU_ProcessScheduling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CPU_ProcessScheduling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
