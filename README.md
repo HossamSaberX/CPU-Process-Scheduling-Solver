@@ -1,6 +1,6 @@
 ## Process Scheduling Program
 
-This simple console application is based on First-Come, First-Serve (FCFS) and Shortest Job First (SJF) scheduling algorithms. It is currently under development to include more algorithms, and a Gantt chart feature is yet to be implemented.
+This console application is based on First-Come, First-Serve (FCFS), Shortest Job First (SJF) and SRTF (Shortest Remaining Time First) scheduling algorithms. It is currently under development to include more algorithms, and a Gantt chart feature is yet to be implemented.
 
 ### FCFS Algorithm
 
